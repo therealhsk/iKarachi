@@ -1,0 +1,32 @@
+@import url('~/platform.css');
+
+Page {
+    font-size: 17;
+}
+
+ActionBar.back {
+    color: white;
+}
+.BackgroundImage{
+    background-image: url("~/images/fixitbackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+Image {
+    margin-top: 20;
+    margin-left: 25;
+    margin-right: 25;
+    margin-bottom: 20;
+    height: 100;
+    width: 100;
+}
+
+TextView {
+    background-color: rgba(211, 214, 21, 0.87);
+    height: 35;
+    margin-left: 10;
+    margin-right: 10;
+    margin-top: 5;
+    font-size: 15;
+}

@@ -1,0 +1,12 @@
+{
+    "email-validator": true,
+    "kinvey-nativescript-sdk": true,
+    "nativescript-camera": true,
+    "nativescript-theme-core": true,
+    "tns-core-modules": true,
+    "nativescript-sqlite": true,
+    "rxjs": true,
+    "nativescript-permissions": true,
+    "tns-core-modules-widgets": true,
+    "symbol-observable": true
+}

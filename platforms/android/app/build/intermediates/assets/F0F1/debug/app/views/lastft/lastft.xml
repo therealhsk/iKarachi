@@ -1,0 +1,16 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="Fixit"></ActionBar>
+</Page.actionBar>
+
+<StackLayout class="BackgroundImage" orientation="vertical">
+    <StackLayout class="BackgroundImage" orientation="vertical">
+
+    <Image src="~/images/fixitbt.png" ></Image>
+
+    <Button text = "Done" class = "done" id = "btDone" />
+
+     </StackLayout>
+</StackLayout>
+
+</Page>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    }
+]

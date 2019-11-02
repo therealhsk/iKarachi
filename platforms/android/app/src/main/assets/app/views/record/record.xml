@@ -1,0 +1,29 @@
+<Page loaded="loaded">
+<Page.actionBar>
+    <ActionBar title="Recent Incidents">
+        <ActionBar.actionItems>
+            <ActionItem text="Go Back" tap="btBack" class = "back" />
+        </ActionBar.actionItems>
+    </ActionBar>
+</Page.actionBar>
+
+<StackLayout class="BackgroundImage" orientation="vertical">
+    <StackLayout class="BackgroundImage" orientation="vertical">
+     
+     <Image src="~/images/fixitbt.png" ></Image>
+
+    <TextView  text = "Top 1"/>
+    <TextView  text = "Top 2"/>
+    <TextView  text = "Top 3"/>
+    <TextView  text = "Top 4"/>
+    <TextView  text = "Top 5"/>
+    <TextView  text = "Top 6"/>
+    <TextView  text = "Top 7"/>
+    <TextView  text = "Top 8"/>
+    <TextView  text = "Top 9"/>
+    <TextView  text = "Top 10"/>
+
+    </StackLayout>
+</StackLayout>
+
+</Page>

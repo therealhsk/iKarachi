@@ -1,0 +1,23 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="Fixit"></ActionBar>
+</Page.actionBar>
+
+<StackLayout class="BackgroundImage" orientation="vertical">
+    <StackLayout class="BackgroundImage" orientation="vertical">
+    
+    <Image src="~/images/fixitbt.png" ></Image>
+
+    <Label class= "T1" text = "245 Reported incidents" />
+    <Label class= "T2" text = "907 in treatment"/> 
+    <Label class= "T3" text = "closed from the last 30 days"/>
+
+    <Button class = "bt1" text="Top 10 incidents of the month" tap="btRecord" />
+    <Button class = "bt2" text="Recently Reported Incidents" tap="btReported" />
+    <Button class = "bt3" text="Report Incident" tap="btReport" />
+
+    
+    </StackLayout>
+</StackLayout>
+
+</Page>

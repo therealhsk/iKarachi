@@ -1,0 +1,1 @@
+var frameModule = require ("ui/frame");

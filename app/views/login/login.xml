@@ -1,0 +1,24 @@
+<Page loaded = "loaded">
+
+<Page.actionBar>
+    <ActionBar title="Sign in"></ActionBar>
+</Page.actionBar>
+
+<StackLayout class="layoutBackgroundImage" orientation="vertical">
+    <StackLayout class="layoutBackgroundImage" orientation="vertical"    
+        
+        
+     class = "container" left="30" right="30" top="30" height="350" > 
+        
+        <Image src="~/images/logok.png"  ></Image>
+        
+        <TextField id = "email" text="{{ email }}" hint="Email Address" keyboardType="email" 
+        autocorrect="false" autocapitalizationType="none" />
+        <TextField secure="true" text="{{ password }}" hint="Password" secure="true" />
+
+        <Button text="Sign in" tap="signIn" class="icon-bolt" />
+        <Button text="Sign up" class="link" tap = "register"/>
+         
+    </StackLayout>
+    </StackLayout>
+</Page>

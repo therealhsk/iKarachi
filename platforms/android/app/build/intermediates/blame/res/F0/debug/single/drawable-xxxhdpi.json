@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo.png",
+        "source": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo2.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo2.png"
+    },
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo3.png",
+        "source": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo3.png"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo3.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo3.png"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon.png",
+        "source": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo2.png",
+        "source": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo2.png"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    }
+]

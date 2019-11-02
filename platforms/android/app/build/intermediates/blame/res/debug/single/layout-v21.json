@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\43cb67ea6a2629d3b3ce358800e949f8fb3f3f8c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\43cb67ea6a2629d3b3ce358800e949f8fb3f3f8c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\43cb67ea6a2629d3b3ce358800e949f8fb3f3f8c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\NativeScript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\43cb67ea6a2629d3b3ce358800e949f8fb3f3f8c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

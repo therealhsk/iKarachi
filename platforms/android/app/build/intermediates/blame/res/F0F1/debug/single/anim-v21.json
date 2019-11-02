@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\Android\\.android\\build-cache\\038ddcbe57e91c076727c0f4c145a2edb71a9f79\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\Android\\.android\\build-cache\\038ddcbe57e91c076727c0f4c145a2edb71a9f79\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

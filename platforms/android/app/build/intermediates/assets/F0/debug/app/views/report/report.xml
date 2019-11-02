@@ -1,0 +1,20 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="Report"></ActionBar>
+</Page.actionBar>
+
+<StackLayout class="BackgroundImage" orientation="vertical">
+    <StackLayout class="BackgroundImage" orientation="vertical">
+    
+    <Button class="cam" tap="takePicture" />
+    <Image id="myImage" src = "" row="auto" />
+
+    <Label text = "Add the image of an incident"/>
+
+    <TextView text = "{{ text }}" hint = "Comments" id = "textview"/>
+
+    <Button text = "Submit" tap = "btSubmit" class = "submit"/>
+    </StackLayout>
+</StackLayout>
+
+</Page>

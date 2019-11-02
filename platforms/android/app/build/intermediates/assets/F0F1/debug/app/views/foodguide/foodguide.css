@@ -1,0 +1,75 @@
+@import url('~/platform.css');
+
+Page {
+    font-size: 17;
+}
+.action-bar {
+    color: white;
+    background-color: rgba(7, 97, 42, 0.747);
+}
+
+.BackgroundImage{
+    background-image: url("~/images/food.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.breakfast {
+    background-image: url("~/images/breakfast.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 135;
+    width: 135;
+    margin-top: 230;
+    margin-left: 25;
+}
+
+.lunch {
+    background-image: url("~/images/lunch.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 120;
+    width: 120;
+    margin-top: 230;
+    margin-left: 220;
+
+}
+
+.dinner {
+    background-image: url("~/images/dinner.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 130;
+    width: 130;
+    margin-top: 385;
+    margin-left: 25;
+}
+
+.coffee {
+    background-image: url("~/images/coffee.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 120;
+    width: 120;
+    margin-top: 390;
+    margin-left: 220;
+}
+
+Label{
+    background-color: darkred;
+    color: lightyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    size: 20;
+}
+.l1 {
+    margin-top: 200;
+    font-weight: bold;
+}
+.l2 {
+    margin-top: 360;
+    margin-left: 12;
+}
+.l3 {
+    margin-top: 530;
+    margin-left: 12;
+}

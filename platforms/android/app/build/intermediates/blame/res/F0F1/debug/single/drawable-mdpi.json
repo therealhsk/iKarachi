@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-mdpi\\logo.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-mdpi\\background.png",
+        "source": "D:\\nativescript\\iKarachi\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    }
+]

@@ -1,0 +1,21 @@
+<Page loaded="loaded">
+<Page.actionBar>
+    <ActionBar title="Sign up"></ActionBar>
+</Page.actionBar>
+    <StackLayout class="layoutBackgroundImage" orientation="vertical">
+    <StackLayout class="layoutBackgroundImage" orientation="vertical"    
+     class = "container" left="30" right="30" top="30" height="430" > 
+
+        <Image src="~/images/logok.png"  horizontalAlignment="center"/>
+
+        <TextField text="{{ fname }}" hint="First Name" />
+        <TextField text="{{ lname }}" hint="Last Name" />
+        <TextField text="{{ email }}" id="email" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField text="{{ password }}" secure="true" hint="Password" />
+        <TextField text="{{ area }}" hint="Area" />
+        <TextField text="{{ number }}" hint="Contact Number" />
+
+        <Button text="Sign Up" tap="register" />
+    </StackLayout>
+    </StackLayout>
+</Page>

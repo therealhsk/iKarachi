@@ -1,0 +1,21 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="Fixit"></ActionBar>
+</Page.actionBar>
+
+<StackLayout class="BackgroundImage" orientation="vertical">
+    <StackLayout class="BackgroundImage" orientation="vertical">
+    
+    <Image src="~/images/fixitbt.png" ></Image>
+
+    <Label class= "T1" text = "COME SAVE PAKISTAN WITH US" />
+    <Label class= "T2" text = "Everyday alot of incidents happen in Pakistan natianally."/> 
+    <Label class= "T3" text = "We should be proud citizens and report every incident or "/>
+    <Label class= "T4" text = "any improper thing. Come help us in our compaign" />
+
+    <Button text="Next" tap="btNext" />
+    
+    </StackLayout>
+</StackLayout>
+
+</Page>

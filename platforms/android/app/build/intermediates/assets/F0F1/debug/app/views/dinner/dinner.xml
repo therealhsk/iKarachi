@@ -1,0 +1,26 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="Breakfast"></ActionBar>
+</Page.actionBar>
+
+    <StackLayout>
+      <ScrollView orientation = "horizontal">
+         <StackLayout orientation = "horizontal" class = "Stack">
+             <Label text="Ratings:" class = "l1" />
+             <Button text = "1-3" class = "bt1" tap = "btrating1"/>
+             <Button text = "3-5" class = "bt2" tap = "btrating2"/>
+             <Label text="Range:" class = "l2"/>
+             <Button text = "$" class = "bt3" tap = "btrange1"/>
+             <Button text = "$$" class = "bt4" tap = "btrange2"/>
+             <Button text = "$$$" class = "bt5" tap = "btrange3"/>
+             <Label text = "Others:" class = "l3"/>
+             <Button text = "WiFi" class = "bt6" tap = "btwifi"/>
+             <Button text = "Delivery" class = "bt7" tap = "btdelivery"/>
+             <Button text = "Outdoor" class = "bt8" tap = "btoutdoor"/>
+             <Button text = "Parking" class = "bt9" tap = "btparking"/>
+             <Label width="auto" height = "auto"/>
+         </StackLayout>
+      </ScrollView>
+    </StackLayout>
+
+</Page>

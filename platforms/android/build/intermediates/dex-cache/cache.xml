@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\2476cd9dd1994e12f15a662f7289096e174fa06b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\nativescript\iKarachi\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_16c616ba2c3f3d2da4030320dc77d2c0a5bfbbb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\0ff810d976e97a184c0801ab484a6b1891f34deb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c815c82f2b273b526497d2d2c9d80e314fc66871">
+        <dex dex="D:\nativescript\iKarachi\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_4330642e4862b08f4409600980b163f819f0d206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\31a54e1336fe492c4820fd2795b490a9f3e99faa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="D:\nativescript\iKarachi\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_572d08b31a0b44b97666ba37ffd8de0bb4de1e90.jar" />
+    </item>
+
+</items>

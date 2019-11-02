@@ -1,0 +1,23 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="Food Guide"></ActionBar>
+</Page.actionBar>
+
+<StackLayout class="BackgroundImage" orientation="horizontal">
+    <StackLayout class="BackgroundImage" orientation="vertical">
+    </StackLayout>
+
+<AbsoluteLayout class = "absolutelayout">
+
+    <Label class = "l1" text = "                                  EAT WELL. FEEL WELL.                             " />
+    <Label class = "l2" text = "               Breakfast                                           Lunch           " />
+    <Label class = "l3" text = "                  Dinner                                     Tea & Coffee        " />
+    <Button class="breakfast" tap = "btbreakfast"/>
+    <Button class="lunch" tap = "btlunch"/>
+    <Button class="dinner" tap = "btdinner"/>
+    <Button class="coffee" tap = "btcoffee"/>
+</AbsoluteLayout>
+
+</StackLayout>
+
+</Page>

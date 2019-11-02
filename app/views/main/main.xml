@@ -1,0 +1,14 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="iKarachi"></ActionBar>
+</Page.actionBar>
+    
+    <StackLayout class="BackgroundImage" orientation="vertical">
+    <StackLayout class="BackgroundImage" orientation="vertical"  >
+
+        <Button class="fixit" tap="btfixit" />
+        <Button class="food"  tap = "btfoodguide"/>
+    </StackLayout>
+    </StackLayout>
+
+</Page>

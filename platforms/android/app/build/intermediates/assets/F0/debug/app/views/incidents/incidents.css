@@ -1,0 +1,75 @@
+@import url('~/platform.css');
+
+Page {
+    font-size: 17;
+}
+
+.BackgroundImage{
+    background-image: url("~/images/fixitbackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+Image {
+    margin-top: 50;
+    margin-left: 25;
+    margin-right: 25;
+    margin-bottom: 50;
+    height: 100;
+    width: 100;
+}
+
+.T1 {
+    margin-top: 05;
+    font-family: Georgia;
+    font-size: 20;
+    text-align: center;
+    color: rgba(211, 214, 21, 0.87);
+    background-color: black;
+    font-weight: bolder;
+}
+
+.T2 {
+    margin-top: 05;
+    font-family: Georgia;
+    font-size: 20;
+    text-align: center;
+    color: rgba(211, 214, 21, 0.87);
+    background-color: black;
+    font-weight: bolder;
+}
+
+.T3 {
+    margin-top: 05;
+    font-family: Georgia;
+    font-size: 20;
+    text-align: center;
+    color: rgba(211, 214, 21, 0.87);
+    background-color: black;
+    font-weight: bolder;
+}
+
+Button.bt1 {
+    margin-top: 70;
+    margin-left: 40;
+    margin-right: 40;
+    padding: 10;
+    color: black;
+    background-color: rgba(211, 214, 21, 0.87);
+}
+Button.bt2 {
+    margin-top: 10;
+    margin-left: 40;
+    margin-right: 40;
+    padding: 10;
+    color: black;
+    background-color: rgba(211, 214, 21, 0.87);
+}
+Button.bt3 {
+    margin-top: 10;
+    margin-left: 40;
+    margin-right: 40;
+    padding: 10;
+    color: black;
+    background-color: rgba(211, 214, 21, 0.87);
+}

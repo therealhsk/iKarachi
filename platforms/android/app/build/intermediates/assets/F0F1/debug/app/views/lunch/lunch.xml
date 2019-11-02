@@ -1,0 +1,44 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="Lunch"></ActionBar>
+</Page.actionBar>
+
+    <StackLayout>
+      <ScrollView orientation = "horizontal">
+         <StackLayout orientation = "horizontal" class = "Stack">
+             <Label text="FILTERS" class="l1"  />
+             <Button text="RANGE" class="bt1" />
+             <Button text = "$"  tap = "btrange1"/>
+             <Button text = "$$"  tap = "btrange2"/>
+             <Button text = "$$$"  tap = "btrange3"/>
+             <Button text="RATINGS" class="bt1" />
+             <Button text = "1-3"  tap = "btrating1"/>
+             <Button text = "3-5"  tap = "btrating2"/>
+             <Button text = "WiFi"  tap = "btwifi"/>
+             <Button text = "Delivery"  tap = "btdelivery"/>
+             <Button text = "Outdoor"  tap = "btoutdoor"/>
+             <Button text = "Parking"  tap = "btparking"/>
+             <Button text = "test"  tap = "bttest"/>
+             <Label width="auto" height = "auto"/>
+         </StackLayout>
+      </ScrollView>
+       <ListView items="{{ beerList }}">
+    <ListView.itemTemplate class="template">
+    <StackLayout orientation="horizontal">
+        <Image  width="100px" height="100px" src="~/images/lunch.png" />
+      <StackLayout orientation="vertical">
+      <StackLayout orientation="horizontal">
+        <Label id="id" text="{{id}}" class="id" />
+        <Label id="Restaurant" text="{{Restaurant}}" class="beerName" />
+        <Label id="Location" text="{{Location}}" class="Location" />
+        <Label id="Ratings" text="{{Ratings}}" class="Ratings" />
+        </StackLayout>
+        <Label id="Description" text="{{ Description }}" textWrap="true" class="description" />
+      </StackLayout>
+      </StackLayout>
+    </ListView.itemTemplate>
+    </ListView>
+
+    </StackLayout>
+
+</Page>

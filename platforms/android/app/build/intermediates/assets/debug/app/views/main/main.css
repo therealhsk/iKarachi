@@ -1,0 +1,36 @@
+@import url('~/platform.css');
+
+Page {
+    font-size: 17;
+}
+
+.BackgroundImage{
+    background-image: url("~/images/Background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fixit {
+    background-image: url("~/images/fixitbt.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 180;
+    margin-top: 50;
+    margin-left: 10;
+    margin-right: 25;
+    margin-bottom: 30;
+}
+.food {
+    background-image: url("~/images/foodbt.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 280;
+    margin-top: 30;
+    margin-left: 25;
+    margin-right: 25;
+    margin-bottom: 0.5;
+    opacity: 0.7;
+}
